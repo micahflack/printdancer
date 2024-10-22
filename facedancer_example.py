@@ -1,3 +1,6 @@
+# base config/example from the facedancer documentation
+# https://facedancer.readthedocs.io/en/latest/using_facedancer.html
+
 import logging
 
 from facedancer import *
